@@ -2,8 +2,8 @@
 #### {EPITECH}
 ###### Action handler app
 
-The Area application is a action handler.
+The Area is a action handler.
 
 ....
-
+Developed in React-Native
 (in development)
